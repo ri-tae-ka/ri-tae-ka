@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ri-tae-ka
-- 👀 I’m interested in open source
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
