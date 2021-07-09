@@ -3,6 +3,12 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 
+<br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ri-tae-ka&show_icons=true&theme=tokyonight)
+
+[![Github](https://img.shields.io/github/followers/ri-tae-ka?label=Follow&style=social)](https://github.com/ri-tae-ka)
+
 ![](https://komarev.com/ghpvc/?username=ri-tae-ka&color=green&label=PROFILE+VIEWS)
 
 <!---
