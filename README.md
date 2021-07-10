@@ -12,7 +12,7 @@
 
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ri-tae-ka)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ri-tae-ka&show_icons=true&count_private=true)
 
 [![Github](https://img.shields.io/github/followers/ri-tae-ka?label=Follow&style=social)](https://github.com/ri-tae-ka)
 
