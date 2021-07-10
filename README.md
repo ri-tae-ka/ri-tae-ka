@@ -3,6 +3,13 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 
+
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ritika-thareja/)
+&nbsp;
+
+
+
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ri-tae-ka)
