@@ -43,7 +43,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ri-tae-ka&show_icons=true&count_private=true)
 
 
-### Another readme stats version coz why not🤪
+#### 🐍Another readme stats version coz why not🤪
 
 ![snake gif](https://github.com/ri-tae-ka/ri-tae-ka/blob/output/github-contribution-grid-snake.gif)
 
