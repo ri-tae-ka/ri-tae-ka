@@ -16,6 +16,7 @@
 ## Connect with me:  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ritika-thareja/)&nbsp;
 
 <hr>
+
 # My GitHub contributions as a Game of Life
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ri-tae-ka.gif?z=6)](https://github4life.herokuapp.com/ri-tae-ka)
