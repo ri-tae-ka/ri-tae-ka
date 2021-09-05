@@ -5,9 +5,9 @@
 ## About Me:
 - 🌱 I’m currently learning Web Development
 
-- 💞️ I’m looking to collaborate on any project
+- 👩‍💻 I’m looking to collaborate on any project
 
-- 👩🏻Pronouns: she/her/hers
+- 👩🏻 Pronouns: she/her/hers
 
 - 📫 Reach me via ritzthareja@gmail.com
 
